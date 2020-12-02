@@ -28,3 +28,6 @@ nodejs typescript vuejs  [SoulJs](https://github.com/zrk1993/souljs) [AutoJs](ht
 ## License
 
 application is [MIT licensed](LICENSE).
+
+##编译地址
+http://91fans.com.cn/post/autojswebone/
