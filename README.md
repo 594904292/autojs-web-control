@@ -31,3 +31,6 @@ application is [MIT licensed](LICENSE).
 
 ##编译地址
 http://91fans.com.cn/post/autojswebone/
+
+AUTOJS4.1.0实战教程---京东领京豆
+https://www.freesion.com/article/5528530392/
