@@ -34,3 +34,6 @@ http://91fans.com.cn/post/autojswebone/
 
 AUTOJS4.1.0实战教程---京东领京豆
 https://www.freesion.com/article/5528530392/
+
+爆短视频
+https://www.cnblogs.com/zy0412326/p/12640634.html
